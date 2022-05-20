@@ -23,7 +23,7 @@ Se puede realizar cualquier cambio que considere necesario en el código y en lo
 
 ## Autor
 
-- Nombre complaeto: Moises Rivas
+- Nombre completo: Moises Rivas
 - Fecha de inicio: 19/05/2022 16:30
 - Fecha de fin: 20/05/2022 20:30
-- Motivo del proyecto: Proyecto para prueba de conocimientos 
+- Motivo del proyecto: Prueba de conocimientos 
